@@ -9,19 +9,6 @@
     - url: https://github.com
     - url: https://github.com
     - url: https://github.com
-  featured: true
-
-- name: Thiago Costa
-  bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
-  avatar: ./avatars/thiago-costa.png
-  social:
-    - url: https://unsplash.com
-    - url: https://stackoverflow.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
 
 - name: Jan Roesner
   bio: |
@@ -33,3 +20,4 @@
     - url: https://github.com/janroesner
     - url: https://500px.com/janroesner
     - url: https://about.me/janroesner
+  featured: true
