@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://janroesner.github.io`,
     description: `A collection of things that can not be unsaid…`,
     hero: {
-      heading: `Some super duper cool and positive heading`,
+      heading: `Critical Thinking`,
       maxWidth: 652,
     },
     social: [
