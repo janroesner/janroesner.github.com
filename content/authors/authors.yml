@@ -12,12 +12,11 @@
 
 - name: Jan Roesner
   bio: |
-    I am a serial entrepreneur with a crush for digital products, who likes to build things with code, help teams to grow, teach people to evolve and help
-    companies to achive goals beyond just making more profit. I like to think outside of the typical box, but also enjoy sticking to principles and
-    paradigms here and there, because I do strongly believe, that values and relationships are much more relevant and important than technology and money.
+    Developing digital products, building successful businesses & shaping effective teams professionally since 2001.
   avatar: ./avatars/jan-roesner.jpg
   social:
     - url: https://github.com/janroesner
-    - url: https://500px.com/janroesner
-    - url: https://about.me/janroesner
+    - url: https://instagram.com/janroesner
+    - url: https://twitter.com/RoesnerJan
+    - url: https://www.linkedin.com/in/janroesner
   featured: true
