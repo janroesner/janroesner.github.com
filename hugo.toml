@@ -1,0 +1,57 @@
+baseURL = 'https://roesner.it/'
+languageCode = 'en-us'
+title = 'Disrupt responsibly'
+theme = 'nightfall'
+
+[params]
+author = "Jan Roesner"
+user = "jan"
+hostname = "roesner.it"
+footerHtml = '© 2023 – Jan Roesner'
+
+[menu]
+  [[menu.header]]
+    name = "posts"
+    weight = 1
+    url = "/posts"
+  [[menu.header]]
+    name = "about"
+    weight = 0
+    url = "/about"
+    
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/janroesner"
+icon = "fa-brands fa-github"
+
+[[params.social]]
+key = 1
+name = "twitter"
+url = "https://www.twitter.com/RoesnerJan"
+icon = "fa-brands fa-twitter"
+
+[[params.social]]
+key = 2
+name = "linkedin"
+url = "https://www.linkedin.com/in/janroesner/"
+icon = "fa-brands fa-linkedin"
+
+[[params.social]]
+key = 3
+name = "500px"
+url = "https://500px.com/janroesner"
+icon = "fa-brands fa-500px"
+
+[[params.social]]
+key = 4
+name = "email"
+url = "mailto:jan@roesner.it"
+icon = "fa-regular fa-envelope"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false
+      [markup.goldmark.parser.attribute]
+        block = true
