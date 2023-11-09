@@ -10,3 +10,18 @@ a,
 .postTitle {
   color: #5ed7ff;
 }
+
+figure {
+  margin: 0 !important;
+}
+
+figure figcaption h4 {
+  font-size: 0.7em;
+  margin-top: 0;
+}
+
+figure img {
+  max-width: 100%;
+  height: auto;
+  display: block; /* This makes sure the image does not inline with other elements */
+}
