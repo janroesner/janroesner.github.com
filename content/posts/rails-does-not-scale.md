@@ -1,7 +1,7 @@
 ---
 title: "Rails Does Not Scale"
 date: 2023-11-28T10:00:00+02:00
-draft: true
+draft: false
 tags: ["rails", "ruby"]
 categories: ["rails", "development", "strategy"]
 ---
