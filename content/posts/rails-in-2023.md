@@ -73,3 +73,5 @@ Ignoring Rails for a greenfield project in 2023 can be costly. If you've assembl
 Ultimately, before making a technology decision, one should ask whether they want to produce the proverbial screw or a nail, and whether the toolbox might contain a screwdriver in addition to the hammer.
 
 Retrospectively – but also subjectively – we have thrown SPA technology at just about every problem that even remotely looked somehow like a fit for the web in the last 10 years. Actual added value for the user is often questionable. Direct impact on revenue and profit just as dubious. Costs... sometimes many times higher in comparison because the game with _Latest-Greatest_ was put above the actual goal. Namely: to build a ruthlessly good product that users love and are willing to throw colorful banknotes at.
+
+\[Follow this series with [Part II - Rails does not scale](/posts/rails-does-not-scale).\]
