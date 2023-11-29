@@ -96,6 +96,6 @@ However, when faced with such a discussion, you should ask yourself whether you 
 
 Rails not only scales better than ever, but it also scales like any other framework that – being based on an interpreted language – is necessarily executed at least an order of magnitude slower than it theoretically would be with a compiled language.
 
-The differences in language performance ggand memory consumption already play a minor role in real request/response scenarios, but they are almost completely negligible under the application of a proper caching strategy. And the container-based, horizontal scalability of Rails applications and their services is as much a given as the acceptance of SaaS products by end-users.
+The differences in language performance and memory consumption already play a minor role in real request/response scenarios, but they are almost completely negligible under the application of a proper caching strategy. And the container-based, horizontal scalability of Rails applications and their services is as much a given as the acceptance of SaaS products by end-users.
 
 Rails does scale. Matter of fact.
